@@ -14,7 +14,6 @@
   "license": "BSD-3-Clause",
   "homepage": "https://github.com/PolymerElements/app-layout",
   "dependencies": {
-    "@polymer/app-layout": "git+https://github.com/unifide-io/app-layout.git",
     "@polymer/iron-flex-layout": "^3.0.0-pre.10",
     "@polymer/iron-media-query": "^3.0.0-pre.10",
     "@polymer/iron-resizable-behavior": "^3.0.0-pre.10",
