@@ -1,7 +1,7 @@
 {
   "name": "@unifide/app-layout",
   "flat": true,
-  "version": "3.0.0-pre.10",
+  "version": "0.0.1",
   "description": "A set of layout elements for your app",
   "contributors": [
     "The Polymer Authors"
